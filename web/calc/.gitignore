@@ -1,0 +1,11 @@
+node_modules/
+.svelte-kit/
+package/
+build/
+.DS_Store
+import.sh
+*.tfstate
+*.tfstate.backup
+# env files
+.envrc
+*.local
